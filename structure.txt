@@ -1,0 +1,12 @@
+bot/
+├── main.py
+├── users.json
+├── promocodes.json
+├── transactions.json
+├── referrals.json
+├── assets/
+│   ├── WelcomeImage/
+│   │   └── welcome.jpg
+│   └── PromocodeImage/
+│       └── promo.jpg
+└── requirements.txt

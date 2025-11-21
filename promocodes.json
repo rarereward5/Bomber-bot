@@ -1,0 +1,12 @@
+{
+  "Winter": {
+    "limit": 5,
+    "attempts": 3,
+    "activated_by": []
+  },
+  "Proton19.12.2006": {
+    "limit": 2,
+    "attempts": 1,
+    "activated_by": []
+  }
+}
